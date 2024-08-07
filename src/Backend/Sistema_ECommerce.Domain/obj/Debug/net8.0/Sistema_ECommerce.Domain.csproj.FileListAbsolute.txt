@@ -1,0 +1,15 @@
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\bin\Debug\net8.0\Sistema_ECommerce.Domain.deps.json
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\bin\Debug\net8.0\Sistema_ECommerce.Domain.dll
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\bin\Debug\net8.0\Sistema_ECommerce.Domain.pdb
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\bin\Debug\net8.0\Sistema_ECommerce.Core.dll
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\bin\Debug\net8.0\Sistema_ECommerce.Core.pdb
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\Sistema_ECommerce.Domain.csproj.AssemblyReference.cache
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\Sistema_ECommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\Sistema_ECommerce.Domain.AssemblyInfoInputs.cache
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\Sistema_ECommerce.Domain.AssemblyInfo.cs
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\Sistema_ECommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\Sistema_.23AA48F6.Up2Date
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\Sistema_ECommerce.Domain.dll
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\refint\Sistema_ECommerce.Domain.dll
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\Sistema_ECommerce.Domain.pdb
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Domain\obj\Debug\net8.0\ref\Sistema_ECommerce.Domain.dll
