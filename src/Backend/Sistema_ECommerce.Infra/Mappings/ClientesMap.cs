@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Sistema_ECommerce.Domain.Entities;
+using Sistema_ECommerce.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -39,15 +41,21 @@ namespace Sistema_ECommerce.Infra.Mappings
                 .HasColumnName("email")
                 .HasColumnType("VARCHAR(180)");
 
-            builder.Property(x => x.DataCriação)
+            builder.Property(x => x.DataCreate)
                 .IsRequired()                
-                .HasColumnName("DataCriação")
+                .HasColumnName("DataCreate")
                 .HasColumnType("datetime2");
 
+            // Converter para mapear o enum para uma string no banco de dados
+            var statusConverter = new ValueConverter<ClientesStatusEnum, string>(
+                v => v.ToString(),
+                v => (ClientesStatusEnum)Enum.Parse(typeof(ClientesStatusEnum), v));
+
             builder.Property(x => x.StatusCliente)
-               .IsRequired()
-               .HasColumnName("StatusCliente")
-               .HasColumnType("varchar(15)");
+                .IsRequired()
+                .HasColumnName("StatusCliente")
+                .HasColumnType("varchar(15)")
+                .HasConversion(statusConverter);
         }
     }
 }

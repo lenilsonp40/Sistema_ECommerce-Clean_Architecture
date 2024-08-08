@@ -5,6 +5,7 @@ C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_E
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Core\obj\Debug\net8.0\Sistema_ECommerce.Core.AssemblyInfoInputs.cache
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Core\obj\Debug\net8.0\Sistema_ECommerce.Core.AssemblyInfo.cs
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Core\obj\Debug\net8.0\Sistema_ECommerce.Core.csproj.CoreCompileInputs.cache
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Core\obj\Debug\net8.0\Sistema_ECommerce.Core.sourcelink.json
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Core\obj\Debug\net8.0\Sistema_ECommerce.Core.dll
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Core\obj\Debug\net8.0\refint\Sistema_ECommerce.Core.dll
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Core\obj\Debug\net8.0\Sistema_ECommerce.Core.pdb

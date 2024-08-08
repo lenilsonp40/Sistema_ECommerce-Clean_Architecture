@@ -64,6 +64,7 @@ C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_E
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.API\obj\Debug\net8.0\Sistema_ECommerce.API.csproj.CoreCompileInputs.cache
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.API\obj\Debug\net8.0\Sistema_ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.API\obj\Debug\net8.0\Sistema_ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.API\obj\Debug\net8.0\Sistema_ECommerce.API.sourcelink.json
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.Sistema_ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props

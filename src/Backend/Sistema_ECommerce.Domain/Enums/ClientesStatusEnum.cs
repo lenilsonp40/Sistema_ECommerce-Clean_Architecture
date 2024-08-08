@@ -8,9 +8,9 @@ namespace Sistema_ECommerce.Domain.Enums
 {
     public enum ClientesStatusEnum
     {
-        Ativo = 0,
+        Pendente = 0,
 
-        Pendente = 1,
+        Ativo = 1,
 
         Bloqueado = 2,
 

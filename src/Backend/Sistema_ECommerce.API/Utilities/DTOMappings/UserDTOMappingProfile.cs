@@ -11,6 +11,8 @@ namespace Sistema_ECommerce.API.Utilities.DTOMappings
         {
             CreateMap<CreateClienteViewModel, ClientesDTO>().ReverseMap();
 
+            CreateMap<UpdateClientesViewModel, ClientesDTO>().ReverseMap();
+
             CreateMap<Clientes, ClientesDTO>().ReverseMap();
 
         }

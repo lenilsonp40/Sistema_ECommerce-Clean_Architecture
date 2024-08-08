@@ -15,7 +15,7 @@ namespace Sistema_ECommerce.Domain.Entities
         public string Name { get; private set; }
         public string Email { get; private set; }
         public string Password { get; private set; }
-        public DateTime DataCriação { get; private set; }
+        public DateTime DataCreate { get; private set; }
         public ClientesStatusEnum StatusCliente { get; private set; }
 
         //EF
@@ -26,7 +26,7 @@ namespace Sistema_ECommerce.Domain.Entities
             Name = name;
             Email = email;
             Password = password;
-            DataCriação = DateTime.Now;
+            DataCreate = DateTime.UtcNow;
             StatusCliente = ClientesStatusEnum.Pendente;
             _errors = new List<string>();
 

@@ -12,6 +12,7 @@ C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_E
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Services\obj\Debug\net8.0\Sistema_ECommerce.Services.AssemblyInfoInputs.cache
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Services\obj\Debug\net8.0\Sistema_ECommerce.Services.AssemblyInfo.cs
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Services\obj\Debug\net8.0\Sistema_ECommerce.Services.csproj.CoreCompileInputs.cache
+C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Services\obj\Debug\net8.0\Sistema_ECommerce.Services.sourcelink.json
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Services\obj\Debug\net8.0\Sistema_.3EBA2D29.Up2Date
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Services\obj\Debug\net8.0\Sistema_ECommerce.Services.dll
 C:\Estudos\Dev\GitHub\Sistema_ECommerce-Clean_Architecture\src\Backend\Sistema_ECommerce.Services\obj\Debug\net8.0\refint\Sistema_ECommerce.Services.dll
