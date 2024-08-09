@@ -24,7 +24,7 @@ namespace Sistema_ECommerce.Services.DTO
             Name = name;
             Email = email;
             Password = password;
-            DataCreate = dataCreate;
+            DataCreate = DateTime.UtcNow;
             StatusCliente = statusCliente;
         }
     }

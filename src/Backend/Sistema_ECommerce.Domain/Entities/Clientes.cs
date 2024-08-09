@@ -26,7 +26,7 @@ namespace Sistema_ECommerce.Domain.Entities
             Name = name;
             Email = email;
             Password = password;
-            DataCreate = DateTime.UtcNow;
+            DataCreate = DataCreate;
             StatusCliente = ClientesStatusEnum.Pendente;
             _errors = new List<string>();
 
