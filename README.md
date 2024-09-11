@@ -1,7 +1,8 @@
-# Sistema de E-commerce
+<h1 align="center">
+  📃 Sistema de E-commerce 📃
+</h1>
 
 Bem-vindo ao Sistema de E-commerce! Este sistema é projetado utilizando a Arquitetura Limpa, garantindo uma separação clara das responsabilidades e facilitando a manutenção e evolução do projeto. Uma das funcionalidades principais é o cadastro de clientes, que inclui verificação por email utilizando códigos TOTP (Time-based One-Time Password) para validação da conta.
-
 
 ## Funcionalidades
 
@@ -23,6 +24,22 @@ O sistema é desenvolvido utilizando a Arquitetura Limpa (Clean Architecture), g
 O sistema de E-commerce foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 - **NET 8.0:** Framework utilizado para a construção da API, oferecendo suporte robusto para o desenvolvimento de aplicações web e serviços.
 - **Entity Framework Core:** ORM (Object-Relational Mapper) utilizado para a interação com o banco de dados de forma simplificada e eficiente.
-- **SQL Server :**
+- **SQL Server :** Banco de dados relacional.
+
+<h4 align="center">
+  Feito por Lenilson Soares 👋️ <a href="mailto:lenilsonp40@gmail.com">Entre em contato!</a>
+</h4>
+
+<p align="center">
+
+  <a href="mailto:lenilsonp40@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/lenilson-soares-/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+  
+</p>
 
 
